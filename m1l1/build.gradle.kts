@@ -11,5 +11,5 @@ dependencies {
 }
 
 application {
-    mainClass.set("com.otus.m1l1")
+    mainClass.set("com.otus.m1l1w")
 }
